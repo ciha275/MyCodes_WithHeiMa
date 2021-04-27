@@ -1,0 +1,3 @@
+﻿  this Pointer.cpp
+E:\Microsoft Visual Studio\projects\Bzhan-HeiMa\04-ObjectModel and this Pointer\this Pointer.cpp(16,9): warning C4101: “p1”: 未引用的局部变量
+  04-ObjectModel and this Pointer.vcxproj -> E:\Microsoft Visual Studio\projects\Bzhan-HeiMa\x64\Debug\04-ObjectModel and this Pointer.exe

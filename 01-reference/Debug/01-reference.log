@@ -1,0 +1,3 @@
+﻿  reference-test.cpp
+G:\转行类\AQL_projects\Bzhan-HeiMa\01-reference\reference-test.cpp(26): warning C4172: 返回局部变量或临时变量的地址: a
+  01-reference.vcxproj -> G:\转行类\AQL_projects\Bzhan-HeiMa\Debug\01-reference.exe
