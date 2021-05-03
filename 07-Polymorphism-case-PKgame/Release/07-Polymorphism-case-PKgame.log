@@ -1,0 +1,12 @@
+﻿  DragonSword.cpp
+G:\change_job\AQL_projects\share_coding\07-Polymorphism-case-PKgame\DragonSword.cpp(21,29): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  Hero.cpp
+  Knife.cpp
+  Monster.cpp
+  PKgame.cpp
+  正在生成代码
+  403 of 410 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    303 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  07-Polymorphism-case-PKgame.vcxproj -> G:\change_job\AQL_projects\share_coding\Release\07-Polymorphism-case-PKgame.exe
