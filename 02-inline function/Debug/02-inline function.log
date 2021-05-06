@@ -1,2 +1,3 @@
 ﻿  inline function.cpp
-  02-inline function.vcxproj -> G:\转行类\AQL_projects\Bzhan-HeiMa\Debug\02-inline function.exe
+  LINK : 没有找到 E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\02-inline function.exe 或上一个增量链接没有生成它；正在执行完全链接
+  02-inline function.vcxproj -> E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\02-inline function.exe

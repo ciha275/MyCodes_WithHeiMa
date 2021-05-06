@@ -1,4 +1,5 @@
 ﻿  MyString.cpp
   stringArray.cpp
   正在生成代码...
-  06-stringArrayInClass.vcxproj -> G:\转行类\AQL_projects\Bzhan-HeiMa\Debug\06-stringArrayInClass.exe
+  LINK : 没有找到 E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\06-stringArrayInClass.exe 或上一个增量链接没有生成它；正在执行完全链接
+  06-stringArrayInClass.vcxproj -> E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\06-stringArrayInClass.exe

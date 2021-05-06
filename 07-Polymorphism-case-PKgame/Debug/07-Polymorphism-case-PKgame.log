@@ -1,0 +1,9 @@
+﻿  DragonSword.cpp
+E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\07-Polymorphism-case-PKgame\DragonSword.cpp(21,29): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  Hero.cpp
+  Knife.cpp
+  Monster.cpp
+  PKgame.cpp
+  正在生成代码...
+  LINK : 没有找到 E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\07-Polymorphism-case-PKgame.exe 或上一个增量链接没有生成它；正在执行完全链接
+  07-Polymorphism-case-PKgame.vcxproj -> E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\07-Polymorphism-case-PKgame.exe

@@ -1,0 +1,4 @@
+﻿  inherit.cpp
+E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\06-HowToInherit\inherit.cpp(45,7): warning C4101: “s2”: 未引用的局部变量
+  LINK : 没有找到 E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\06-HowToInherit.exe 或上一个增量链接没有生成它；正在执行完全链接
+  06-HowToInherit.vcxproj -> E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\06-HowToInherit.exe

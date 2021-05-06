@@ -2,4 +2,5 @@
   circle.cpp
   point.cpp
   正在生成代码...
-  03-case-IsPoint_InCircle.vcxproj -> G:\转行类\AQL_projects\Bzhan-HeiMa\Debug\03-case-IsPoint_InCircle.exe
+  LINK : 没有找到 E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\03-case-IsPoint_InCircle.exe 或上一个增量链接没有生成它；正在执行完全链接
+  03-case-IsPoint_InCircle.vcxproj -> E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\03-case-IsPoint_InCircle.exe
