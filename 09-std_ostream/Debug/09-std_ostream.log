@@ -1,0 +1,8 @@
+﻿  cout.cpp
+E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\09-std_ostream\cout.cpp(13,15): warning C4305: “参数”: 从“int”到“_Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\09-std_ostream\cout.cpp(13,11): warning C4309: “参数”: 截断常量值
+  09-std_ostream.vcxproj -> E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\09-std_ostream.exe
