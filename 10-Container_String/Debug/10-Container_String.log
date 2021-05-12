@@ -1,0 +1,4 @@
+﻿  string.cpp
+E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\10-Container_String\string.cpp(68,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\10-Container_String\string.cpp(271,20): warning C4018: “<”: 有符号/无符号不匹配
+  10-Container_String.vcxproj -> E:\Microsoft Visual Studio\projects\MyCodes_WithHeiMa\Debug\10-Container_String.exe
