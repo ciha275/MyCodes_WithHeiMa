@@ -141,7 +141,7 @@ void test03()
 	//调用sort 参数一 开头 ，参数二 结尾 ，（参数三 回调函数）
 	sort(d.begin(), d.end());//默认就是从小到大
 	printDeque(d);
-	sort(d.begin(), d.end(), myCompare);//使用自己编写的回调函数
+	sort(d.begin(), d.end(), myCompare);//使用自己编写的回调函数，用 myCompare() 这是函数调用，此处用 myCompare 作为回调函数
 	printDeque(d);
 
 }
